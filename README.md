@@ -7,7 +7,7 @@ OpenCV
 PIL
 Tkinter
 
-#Starting the application
+# Starting the application
 1- Open a terminal in the project's directory
 
 2- run the following command: 
@@ -27,7 +27,7 @@ for the <username> and <password>, here is a list of predefined users inside the
 'hany','12': which uses port 8003.
 
 
-#Using the application
+# Using the application
 5- after logging in, you would find a text box just under the buttons, we proceed by writing a room name and then clicking "join"
 if a room with this name already exists, you will directly join this room, if not, a new room with this name is created and you will join it immediately.
 
