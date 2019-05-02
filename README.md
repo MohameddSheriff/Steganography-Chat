@@ -21,9 +21,10 @@ where <server_ip> is the ip of the hosting machine,
 <port_number> is the number used in step 2
 
 for the <username> and <password>, here is a list of predefined users inside the code,
-'ramy','1234': which uses port 8000
-'fox','12345': which uses port 8001
-'sherif','123': which uses port 8002
+	
+'ramy','1234': which uses port 8000.
+'fox','12345': which uses port 8001.
+'sherif','123': which uses port 8002.
 'hany','12': which uses port 8003.
 
 
